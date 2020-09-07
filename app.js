@@ -55,7 +55,6 @@ var controller = (function(budgetCtrl, UICtrl) {
     // 1. Get the filed input data
 
     var input = UICtrl.getInput();
-    console.log(input);
 
     // 2. Add the item to te budget controller
 
